@@ -1,0 +1,24 @@
+{
+  "persons": [
+    {
+      "id": "12345-6789-1357",
+      "name": "jorge B",
+      "phone": "123456",
+      "street": "street city 1",
+      "city": "city 1"
+    },
+    {
+      "id": "12345-1357-6789",
+      "name": "jorgeA",
+      "phone": "3042'023",
+      "street": "street city 2",
+      "city": "city 2"
+    },
+    {
+      "id": "d709c480-9ba7-11ef-a042-29fe38d3263c",
+      "name": "jorge C",
+      "city": "city C",
+      "street": "street C"
+    }
+  ]
+}
